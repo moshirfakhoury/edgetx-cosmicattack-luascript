@@ -2,7 +2,7 @@ Overview
 
 Cosmic Attack is a fast-paced side-scrolling shooter built entirely in Lua for EdgeTX transmitters. Take control of your spaceship, dodge incoming enemy fire, manage your ammo, and survive through increasingly difficult levels—culminating in an intense boss battle.
 
-Designed specifically for EdgeTX hardware, this game makes full use of the transmitter’s screen, inputs, and audio capabilities to deliver a fun arcade-style experience right from your radio.
+Designed specifically for Radiomaster TX16S MK2 & EdgeTX hardware, this game makes full use of the transmitter’s screen, inputs, and audio capabilities to deliver a fun arcade-style experience right from your radio.
 
 Features
 
