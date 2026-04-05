@@ -38,7 +38,7 @@ Installation Guide
 
 - Download Cosmic Attach.zip
 - Connect your radio (or SD card) to your computer
-- Copy Cosmic Attack.lua and to /SCRIPTS/TOOLS/
+- Copy Cosmic Attack.lua to /SCRIPTS/TOOLS/
 - Copy Cosmic Attack folder (this contains all the files to run the game) to /SCRIPTS/TOOLS/
 
 
